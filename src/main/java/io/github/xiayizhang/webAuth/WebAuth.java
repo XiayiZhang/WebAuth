@@ -1,4 +1,4 @@
-package io.github.xiyayizhang.webAuth;
+package io.github.xiayizhang.webAuth;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
