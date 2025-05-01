@@ -3,7 +3,7 @@ plugins {
     id("xyz.jpenilla.run-paper") version "2.3.1"
 }
 
-group = 'io.github.xiyayizhang'
+group = 'io.github.xiayizhang'
 version = '1.1-SNAPSHOT'
 
 repositories {
@@ -56,8 +56,4 @@ processResources {
     filesMatching('plugin.yml') {
         expand props
     }
-}
-jar {
-    archiveFileName = "WebAuth1.0-build3.jar"  // 可能导致路径变化
-    destinationDirectory = file("output")  // 自定义输出目录
 }
