@@ -1,0 +1,7 @@
+name: WebAuth
+version: '1.1-SNAPSHOT'
+main: io.github.xiayizhang.webAuth.WebAuth
+api-version: '1.21'
+authors: [ xiayizhang ]
+description: Custom mod
+website: https://xiayizhang.github.io
